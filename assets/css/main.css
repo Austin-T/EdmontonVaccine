@@ -51,6 +51,9 @@ table {
 	border-spacing: 0;
 }
 
+.logo > img{
+	width: 100px;
+}
 body {
 	-webkit-text-size-adjust: none;
 }
